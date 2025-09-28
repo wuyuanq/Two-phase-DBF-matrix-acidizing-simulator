@@ -30,3 +30,9 @@ You can see the results in the document "case". In "case", there is a file calle
 
 You can also see the results in Tecplot. A series of .plt files have been generated in "case". The numbers at the tail of the name of the .plt files stand for the serial number of the time step. So in Tecplot, you can see the simulation history results and not only the results at the end of the simulation.
 
+-----------------------------------------------------------------------------------------
+
+For a quick test of the code, please just open a terminal on Mac, enter the directory of the code, and input "make run -f Makefile.mac" in the terminal.
+
+
+
